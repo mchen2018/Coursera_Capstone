@@ -1,0 +1,40 @@
+,Neighborhood,Cluster,Count of Crimes
+0,"Congress Heights, Bellevue, Washington Highlands",cluster 39,2390
+1,"Douglas, Shipley Terrace",cluster 38,1076
+2,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",cluster 36,538
+3,"Near Southeast, Navy Yard",cluster 27,600
+4,"River Terrace, Benning, Greenway, Dupont Park",cluster 32,1629
+5,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",cluster 8,4693
+6,"West End, Foggy Bottom, GWU",cluster 5,1120
+7,"Mayfair, Hillbrook, Mahaning Heights",cluster 30,1039
+8,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",cluster 31,1777
+9,"Shaw, Logan Circle",cluster 7,2429
+10,"Eastland Gardens, Kenilworth",cluster 29,154
+11,"Ivy City, Arboretum, Trinidad, Carver Langston",cluster 23,2824
+12,"Georgetown, Burleith/Hillandale",cluster 4,2240
+13,"Dupont Circle, Connecticut Avenue/K Street",cluster 6,3273
+14,"Howard University, Le Droit Park, Cardozo/Shaw",cluster 3,3201
+15,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",cluster 9,1290
+16,"Capitol View, Marshall Heights, Benning Heights",cluster 33,1840
+17,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",cluster 13,484
+18,"North Michigan Park, Michigan Park, University Heights",cluster 20,798
+19,"North Cleveland Park, Forest Hills, Van Ness",cluster 12,406
+20,"Brightwood Park, Crestwood, Petworth",cluster 18,2709
+21,"Friendship Heights, American University Park, Tenleytown",cluster 11,1115
+22,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",cluster 19,1136
+23,"Takoma, Brightwood, Manor Park",cluster 17,1931
+24,"Colonial Village, Shepherd Park, North Portal Estates",cluster 16,369
+25,"Hawthorne, Barnaby Woods, Chevy Chase",cluster 10,546
+26,Historic Anacostia,cluster 28,814
+27,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",cluster 35,752
+28,"Sheridan, Barry Farm, Buena Vista",cluster 37,775
+29,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",cluster 34,1678
+30,"Union Station, Stanton Park, Kingman Park",cluster 25,3827
+31,"Kalorama Heights, Adams Morgan, Lanier Heights",cluster 1,1362
+32,"Edgewood, Bloomingdale, Truxton Circle, Eckington",cluster 21,2398
+33,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",cluster 2,5115
+34,"Brookland, Brentwood, Langdon",cluster 22,2431
+35,"Woodridge, Fort Lincoln, Gateway",cluster 24,1140
+36,"Cathedral Heights, McLean Gardens, Glover Park",cluster 14,506
+37,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",cluster 15,708
+38,"Capitol Hill, Lincoln Park",cluster 26,2884
